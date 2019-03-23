@@ -39,6 +39,13 @@
       "dimensions": "1280x720",
       "copyright": "Credits to its creator",
       "collections": "landscapes,city"
+    },
+    {
+      "author": "Deep Bhavsar",
+      "url": "https://images.unsplash.com/photo-1553061592-03b4b2df2f66?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "name": "Windy Mountain",
+      "copyright": "Credits to its creator",
+      "collections": "landscapes,mountain"
     }
   ]
 }
