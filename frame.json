@@ -1,42 +1,46 @@
 {
-  "Collections": [
-    {
-      "name": "Landscapes",
-      "preview_url": "https://images.unsplash.com/photo-1524260855046-f743b3cdad07?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1401&q=80",
-      "preview_thumbnail_url": "https://images.unsplash.com/photo-1524260855046-f743b3cdad07?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1401&q=80"
-    },
-    {
-      "name": "City",
-      "preview_url": "https://images.unsplash.com/Ys-DBJeX0nE.JPG?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
-      "preview_thumbnail_url": "https://images.unsplash.com/Ys-DBJeX0nE.JPG?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
-    },    
-    {
-      "name": "People",
-      "preview_url": "https://images.unsplash.com/photo-1478809319988-35cad52fd89c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80",
-      "preview_thumbnail_url": "https://images.unsplash.com/photo-1478809319988-35cad52fd89c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80"
-    }
-  ],
   "Wallpapers": [
     {
       "name": "Car",
       "author": "Deep",
       "url": "https://images.unsplash.com/photo-1550613097-fe6c2c321cd3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80",
-      "collections": "featured,landscapes,people",
+      "collections": "featured,landscapes",
       "downloadable": false
+    },  
+    {
+      "author": "Me Deep",
+      "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "name": "Great Long Road",
+      "copyright": "Credits to its creator",
+      "collections": "landscapes,mountain"
     },
+    {
+      "author": "Zedge",
+      "url": "https://fsa.zobj.net/crop.php?r=XAXQyn9fdxx2DP5V_hoIj-N3jXsmtveb1V5IjoTSLkqPLx6wKRlrqNo98tnzdNKws4kf7b7RLH0-D1rZ3w2hPzXDpUj-W2FzZ_PWch_Fr1EDXs1rrjD5aLS_Yl-RyjQAXfMRGugjC10X7XDu",
+      "name": "King",
+      "copyright": "Credits to its creator",
+      "collections": "amoled"
+    },
+    {
+      "name": "Apple Accesories",
+      "author": "Deep",
+      "url": "https://www.setaswall.com/wp-content/uploads/2018/04/Amoled-Wallpaper-30-2416x2416-768x768.jpg",
+      "collections": "amoled",
+      "downloadable": true
+    },   
     {
       "name": "Globe",
       "author": "Deep",
       "url": "https://i.imgur.com/SBi2JeA.jpg",
       "collections": "amoled",
       "downloadable": false
-    },  
+    },      
     {
       "name": "Barcelona FC",
       "author": "Someone",
       "url": "https://images.unsplash.com/photo-1551212276-2b1652246065?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
       "dimensions": "3200x2560",
-      "collections": "people,city",
+      "collections": "city",
       "downloadable": false
     },
     {
